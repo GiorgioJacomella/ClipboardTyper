@@ -1,0 +1,11 @@
+# Build output (created by build.cmd) - publish the exe as a GitHub Release instead
+*.exe
+*.pdb
+
+# Editor and OS files
+.vs/
+.vscode/
+*.user
+*.suo
+Thumbs.db
+Desktop.ini
